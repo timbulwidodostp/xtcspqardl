@@ -1,0 +1,9 @@
+D 'xtcspqardl': Cross-Sectionally Augmented Panel Quantile ARDL, Quantile CCE Mean Group, and Quantile CCE Pooled Mean Group Estimation Use xtcspqardl With STATA 19
+D
+F _xtcspqardl_advanced.ado
+F _xtcspqardl_ecm.ado
+F _xtcspqardl_estimate.ado
+F _xtcspqardl_qccemg.ado
+F _xtcspqardl_qccepmg.ado
+F xtcspqardl.ado
+F xtcspqardl.sthlp
