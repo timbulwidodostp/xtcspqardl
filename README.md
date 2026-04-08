@@ -1,6 +1,8 @@
 # xtcspqardl
 Cross-Sectionally Augmented Panel Quantile ARDL, Quantile CCE Mean Group, and Quantile CCE Pooled Mean Group Estimation Use xtcspqardl With STATA 19
 
+https://www.youtube.com/watch?v=JVJvK4m127U
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
